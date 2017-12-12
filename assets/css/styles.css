@@ -92,6 +92,9 @@ a.btn-cta-secondary,
     color: #fff;
     font-weight: 600;
     text-transform: uppercase;
+    display: block;
+    margin: 0 auto;
+    margin-right: auto;
 }
 
 a.btn-cta-secondary:hover,
@@ -99,6 +102,10 @@ a.btn-cta-secondary:hover,
     background: #3893bd;
     border: 1px solid #3893bd;
     color: #fff;
+}
+
+.center {
+    text-align: center;
 }
 
 .text-highlight {
@@ -524,6 +531,16 @@ iframe {
 .holder img {
     max-height: 250px;
     max-width: 30px;
+    object-fit: cover;
+}
+
+.holder2 {
+    display: inline;
+}
+
+.holder2 img {
+    max-height: 850px;
+    max-width: 80px;
     object-fit: cover;
 }
 
