@@ -148,7 +148,8 @@ iframe {
 .header {
     padding: 30px 0;
     background: #f5f5f5;
-    border-top: 10px solid #778492;
+    border-top: 5px solid #DAE3E7;
+    background-image: url("http://www.sitekuralim.com/wp-content/uploads/2016/02/datacenter-server-header-banner.jpg");
 }
 
 .header .btn {
@@ -161,14 +162,14 @@ iframe {
 }
 
 .header .profile-content .name {
-    color: #49515a;
+    color: #c4cccc;
     font-size: 38px;
     margin-bottom: 5px;
     margin-top: 30px;
 }
 
 .header .profile-content .desc {
-    color: #778492;
+    color: #c5cdd6;
     font-family: "Lato", arial, sans-serif;
     font-weight: 400;
     font-size: 24px;
