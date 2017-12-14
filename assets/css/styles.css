@@ -412,14 +412,14 @@ iframe {
     max-width: 100%;
 }
 
-.ghfeed {
+.rrfeed {
     height: 600px;
 }
 
-.ghfeed,
-.ghfeed *,
-.ghfeed *:before,
-.ghfeed *:after {
+.rrfeed,
+.rrfeed *,
+.rrfeed *:before,
+.rrfeed *:after {
     -webkit-box-sizing: content-box;
     -moz-box-sizing: content-box;
     box-sizing: content-box;
